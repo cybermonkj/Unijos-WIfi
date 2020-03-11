@@ -1,0 +1,16 @@
+{
+    "manifest_version":3,
+    "content_scripts":[{
+        "exclude_globs":[  ],
+        "include_globs":["*"],
+        "js":["unijos-radius.js"],
+        "matches":[
+            "http://network.unijos.edu.ng/*",
+      
+        ],
+        "run_at":"document_end"
+    }],
+    "name":"UNIJOS WiFi Auto Login",
+    "description":"Automatically sign yourself into the radius server freeing yourself of the stress",
+    "version":"1.0.0"
+}
