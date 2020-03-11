@@ -10,3 +10,5 @@ https://chrome.google.com/webstore/detail/meddlemonkey/moihledlmchhofenpacbhphnb
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
   - Step 2:
  then use them to install the script onto your browser
+ 
+ copy and paste javascript to any of the plugins above
